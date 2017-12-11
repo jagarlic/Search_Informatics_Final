@@ -1,4 +1,4 @@
-# Search_Informatics_Final
+# Synap Search
 
 Search Engine Project
 
